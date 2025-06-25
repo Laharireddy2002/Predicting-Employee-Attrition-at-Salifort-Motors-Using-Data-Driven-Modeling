@@ -1,0 +1,2 @@
+# Predicting-Employee-Attrition-at-Salifort-Motors-Using-Data-Driven-Modeling
+Using either a logistic regression model or a tree-based machine learning approach (e.g., Random Forest or Decision Tree), the model classifies employees as likely to stay or leave. The insights derived from this analysis can help senior leadership make targeted, data-informed decisions to improve employee retention and organizational performance.
